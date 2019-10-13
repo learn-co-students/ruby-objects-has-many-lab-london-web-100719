@@ -14,7 +14,6 @@ class Post
 
     def self.all
         @@all
-        binding.pry
     end
 
     def author_name
